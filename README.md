@@ -11,7 +11,7 @@ Other requirements:
 #### GUI
     MEA_Analysis_Toolbox
 
-![alt text](https://github.com/helgeanl/MEA_toolbox/blob/master/docs/toolbox.PNG "MEA Tooolbox")
+![alt text](https://github.com/thentnucyborg/MEA_toolbox/blob/master/img/toolbox_v2.png "MEA Tooolbox")
 
 #### Terminal based script
 Run this script in matlab and a dialogbox will pop up to open the recording. Include mostly the same options as in the GUI, with the addition with more information about the recordings stored in the HDF5 file and different filters. The script is also needed if there is stored more than one of each recording type, e.g. raw data together with filtered data. The user can then select which one to process.
