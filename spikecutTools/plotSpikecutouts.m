@@ -1,4 +1,4 @@
-function plotSpikecutouts( data,chan,fs)
+function plotSpikecutouts(data,chan,fs)
 %plotSpikecutouts Plot the spike cutouts from channel CHAN
 %   plotSpikecutouts( DATA,CHAN,Fs )
 
