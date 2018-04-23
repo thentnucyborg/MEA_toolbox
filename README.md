@@ -3,6 +3,7 @@ This matlab toolbox is intended as a framework for analysing recordings from mic
 
 ## Install using source code
 This toolbox requires HDF5 package (McsMatlabDataTools ) from Multi Channel Systems, this can be downloaded at www.multichannelsystems.com or installed using the Add-on Explorer in Matlab. When this is done you are ready to run.
+* run the McsMatlabDataTools.mltbx file within Matlab to install the add-on
 
 Other requirements:
 * Matlab 2016a or newer
