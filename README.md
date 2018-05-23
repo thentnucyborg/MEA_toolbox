@@ -1,13 +1,15 @@
 # MEA Analysis Toolbox
 This matlab toolbox is intended as a framework for analysing recordings from microelectric arrays. The toolbox supports HDF5 recordings stored in the format from Multi channel systems. This is limited to the 60 MEA layout with recordings containing analog data, spike cutouts, and spike trains.
 
-## Install using source code
-This toolbox requires HDF5 package (McsMatlabDataTools ) from Multi Channel Systems, this can be downloaded at www.multichannelsystems.com or installed using the Add-on Explorer in Matlab. When this is done you are ready to run.
-* run the McsMatlabDataTools.mltbx file within Matlab to install the add-on
+## Install
+This software requires a HDF5 toolbox (McsMatlabDataTools.mltbx) from Multi Channel Systems (MCS). This file is included in this repository, but can also be downloaded at www.multichannelsystems.com (direct [link](https://www.multichannelsystems.com/products/multi-channel-suite#downloads)). Run the McsMatlabDataTools.mltbx file within Matlab to install the add-on. Alternatively, find and install the MCS toolbox via the Add-on Explorer in Matlab.
 
 Other requirements:
 * Matlab 2016a or newer
 * Signal Processing Toolbox
+
+## Running the Toolbox
+Run the Toolbox within the Matlab command line.
     
 #### GUI
     MEA_Analysis_Toolbox
@@ -19,4 +21,5 @@ Run this script in matlab and a dialogbox will pop up to open the recording. Inc
 
     MEA_Toolbox
 
-
+## Editing the Toolbox
+Editing can be done using the Matlab App Designer to edit .mlapp files.
