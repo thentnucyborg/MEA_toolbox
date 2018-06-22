@@ -25,4 +25,4 @@ Run this script in matlab and a dialogbox will pop up to open the recording. Inc
 Editing can be done using the Matlab App Designer to edit .mlapp files.
 
 # MCS Python support
-A Jupyter notebook and Python (PyDataTools) support from MCS can be found at the [MCS Datamanager](https://www.multichannelsystems.com/software/multi-channel-datamanager) page.
+A Jupyter notebook and Python (PyDataTools) support from MCS can be found at the [MCS Datamanager](https://www.multichannelsystems.com/software/multi-channel-datamanager) page. PyDataTools is necassary for handling MCS HDF5 files in Python.
